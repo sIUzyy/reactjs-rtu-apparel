@@ -11,7 +11,12 @@ RTU Apparel is a one-stop shop for stylish and convenient school merchandise. We
 - Easily get in touch with the website administrator for any inquiries
 - Quickly add items to your shopping cart with just a few clicks
 - Streamlined checkout process for a hassle-free shopping experience
-- Accept various payment methods, including cash on delivery and online payment 
+- Accept various payment methods, including cash on delivery and online payment
+
+
+ ## Demo
+
+https://rtu-apparel.web.app 
 
 
 ## Technology Stack
